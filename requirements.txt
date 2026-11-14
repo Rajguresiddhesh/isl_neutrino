@@ -1,0 +1,13 @@
+# Python 3.10 - 3.13
+opencv-python>=4.8
+mediapipe>=0.10.9
+numpy>=1.26
+scikit-learn==1.9.1        # the bundled models were saved with this version; if you
+                           # install another, rebuild them (see README, "Retraining")
+joblib>=1.3
+spacy>=3.7
+imageio>=2.31
+imageio-ffmpeg>=0.4.9
+streamlit>=1.39
+SpeechRecognition>=3.10
+pytest>=8.0
